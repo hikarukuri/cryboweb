@@ -1,0 +1,107 @@
+#section-header{
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 30px;
+    font-size: 50px;
+}
+
+@media screen and (max-width:768px) {
+    #section-header{
+        font-size: 30px;
+        margin-top: 30px;
+    }
+}
+
+#sns-img{
+    margin-top: 20px;
+    font-size: 45px;
+}
+
+#connectforme{
+    margin-top: 100px;
+}
+
+#sec2{
+    margin-top: 100px;
+}
+
+#insta{
+    margin-top: 20px;
+    font-size: 30px;
+    color: black;
+}
+
+#insta-txt{
+    font-family: Futura;
+}
+
+#txt-1{
+    margin-top: 30px;
+}
+
+#japanese{
+    font-family: iroha-23kaede-stdn, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.profile{
+    margin-top: 50px;
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 30px;
+}
+
+.profile-icon{
+    margin-top: 40px;
+    width: 150px;
+    height: 150px;
+}
+
+hr{
+    width: 20%;
+    border: 1px solid #2c55d5;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: content-box;
+}
+
+.profile-explain{
+    text-align: left;
+    box-sizing: border-box;
+    display: block;
+    font-size: 17px;
+    line-height: 25px;
+    margin-block-end: 10px;
+    margin-block-start: 40px;
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-rendering: optimizeLegibility;
+    text-size-adjust: 100%;
+    word-wrap: break-word;
+}
+
+#shuffler-h1{
+    color: transparent;
+    -webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: #000;
+}
+
+#shuffler-noun{
+    text-align: center;
+    font-size: 60px;
+}
+
+.shuffler-a{
+    text-align: center;
+    margin-top: 150px;
+}
+
+#btn-reroad{
+    font-size: 30px;
+    color: black;
+    border-radius: 0.5rem;
+    border: 3px dotted #000;
+    padding: 25px;
+}
