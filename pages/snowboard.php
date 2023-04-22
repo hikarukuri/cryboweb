@@ -5,13 +5,12 @@ include '../inc/head.php'; ?>
     <div class="container-fluid">
 
         <?php $snowboard = 'ture';
-        $product = 'true';
         include '../inc/header.php'; ?>
         <section class="hero text-center">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3">
-                        <h1>Snowboard</h1>
+                        <h1>Snowboarding</h1>
                         <p>Profile &amp; Results &amp; Photos.</p>
                     </div>
                 </div>
@@ -25,8 +24,9 @@ include '../inc/head.php'; ?>
                         <div class="box3">
                             <h4>Snowboarding</h4>
                             <h1>Snowboard &times; Art.</h1>
-                            <p>I believe that snowboarding is more than just sliding.<br>So I explore the stylistic and
-                                artistic aspects of freeriding.</p>
+                            <p>&emsp;I believe that snowboarding is more than just sliding.<br>
+                            &emsp;Because when I slide down a snowy mountain on my snowboard, I want to create a lines on my snowboard, just like an artist creates a painting.<br>
+                            &emsp;So I try to explore a stylistic of freeriding and an artistic aspects of it.</p>
                         </div>
                     </div>
                 </div>
@@ -37,42 +37,53 @@ include '../inc/head.php'; ?>
         <section class="content">
             <div class="container">
                 <div class="row mt-xl">
+                <div class="col-md-3 text-center">
+                        <h4 class="underline">2008</h4>
+                        <ul class="label-list">
+                            <li>Born in Kyoto, Japan.</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 text-center">
+                        <h4 class="underline">2011</h4>
+                        <ul class="label-list">
+                            <li>Moving Hokkaido and starting ski.</li>
+                        </ul>
+                    </div>
                     <div class="col-md-3 text-center">
                         <h4 class="underline">2019</h4>
                         <ul class="label-list">
                             <li>Starting snowboarding.</li>
-                            <li>Intermediate class in 2 days.</li>
-                            <li>Anny challenge(snow) 1st place.</li>
-                            <li>Passed JSBA grade 2.</li>
+                            <li>1st place in Annie Challenge competition at Kiroro ski resort.</li>
+                            <li>Passed JSBA(Japan Snowboarding Association) grade 2.</li>
                         </ul>
                     </div>
                     <div class="col-md-3 text-center">
                         <h4 class="underline">2020</h4>
                         <ul class="label-list">
                             <li>Passed JSBA grade 1.</li>
-                            <li>FJT Maiko 2nd plase.</li>
-                            <li>FJT Appi 5th plase.</li>
-                            <li>JSBA Snowboard Cross 2nd place.</li>
-                            <li>Anny challenge(snow) 1st place.</li>
-                            <li>Graduation snowboard school.</li>
+                            <li>2nd place in FJT (Freeride Junior Tour )Maiko Competition in Niigata.</li>
+                            <li>5th place in FJT Appi Competition in Iwate.</li>
+                            <li>2nd place in JSBA snowboard cross competition in Hokkaido.</li>
+                            <li>1st place in Annie Challenge competition at Kiroro ski resort.</li>
+                            <li>Graduated from a snowboard school at Kiroro ski resort.</li>
                         </ul>
                     </div>
                     <div class="col-md-3 text-center">
                         <h4 class="underline">2021</h4>
                         <ul class="label-list">
-                            <li>Work hard to take the junior<br>high school entrance exam.</li>
-                            <li>FJT Appi 2nd grade.</li>
+                            <li>Work hard to take a junior high school entrance exam.</li>
+                            <li>2nd place in FJT Lotte Arai Competition in Nigata.</li>
                         </ul>
                     </div>
                     <div class="col-md-3 text-center">
                         <h4 class="underline">2022</h4>
                         <ul class="label-list">
-                            <li>FJT Appi 1st plase.</li>
-                            <li>FJT Maiko 3rd plase.</li>
-                            <li>FJT Appi 3rd plase.</li>
-                            <li>FJT U-14 general champ.</li>
-                            <li>Appear on J-com Television</li>
-                            <li>Appear on Hokkaido newspaper</li>
+                            <li>3rd place in FJT Maiko Competition in Niigata.</li>
+                            <li>1st place in FJT Lotte Arai Competition in Niigata.</li>
+                            <li>3rd place in FJT Appi Competition in Iwate.</li>
+                            <li>Overall champion in FJT under 14.</li>
+                            <li><a href="https://www.youtube.com/watch?v=KHZMwN30FQQ&t=7s">Appeared on J-Com TV and was interviewed about winning the overall competition.</a></li>
+                            <li><a href="https://www.47news.jp/7683520.html">Sapporo, Snowboard Freeride Junior Tour Overall Champion. Hikaru Kuribayashi, 2nd year student at Kisei Junior high shool.</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3 text-center">

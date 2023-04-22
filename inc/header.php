@@ -21,9 +21,6 @@
                     echo 'class="active"';
                 } ?>>Products</a>
                     <ul class="dropdown">
-                        <li><a href="/pages/snowboard.php" <?php if (isset($snowboard)) {
-                            echo 'class="active"';
-                        } ?>>Snowboard</a></li>
                         <li><a href="/pages/nft.php" <?php if (isset($nft)) {
                             echo 'class="active"';
                         } ?>>NFTs</a></li>
@@ -34,6 +31,9 @@
                         <li><a href="https://setb.jp">SETB</a></li>
                     </ul>
                 </li>
+                <li><a href="/pages/snowboard.php" <?php if (isset($snowboard)) {
+                    echo 'class="active"';
+                } ?>>Snowboarding</a></li>
                 <li> <a href="/pages/blog.php" <?php if (isset($blog)) {
                     echo 'class="active"';
                 } ?>>Blog</a>

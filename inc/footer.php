@@ -34,9 +34,9 @@
             </div>
             <div class="col-md-3 text-center">
                 <ul class="social-links">
-                    <li> <a href="https://instagram.com/crybo_snow" class="fa fa-instagram"></a></li>
+                    <li> <a href="https://instagram.com/hikarukuri" class="fa fa-instagram"></a></li>
                     <li> <a href="https://youtube.com/@hikarukuri" class="fa fa-youtube-play"></a></li>
-                    <li> <a href="https://twitter.com/crybo_snow" class="fa fa-twitter"></a></li>
+                    <li> <a href="https://twitter.com/hikarukuri" class="fa fa-twitter"></a></li>
                     <li> <a href="/pages/links.html" class="fa fa-share"></a></li>
                 </ul>
             </div>
