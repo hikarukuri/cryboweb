@@ -1,3 +1,4 @@
+<script src=”js/grid-gallery.min.js”></script>
 <script src="/js/assets/bootstrap.js"></script>
 <script src="/js/assets/imagesloaded.pkgd.min.js"></script>
 <script src="/js/assets/validation.js"></script>

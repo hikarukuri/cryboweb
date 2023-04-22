@@ -11,7 +11,7 @@ include '../inc/head.php'; ?>
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3">
                         <h1>About</h1>
-                        <p>About CRYBO &amp; NFT &amp; me.<br>Develop and Inovate for new generation.</p>
+                        <p>About CRYBO &amp; NFT &amp; me.<br>Develop and Inovate new generation.</p>
                     </div>
                 </div>
             </div>
@@ -23,13 +23,13 @@ include '../inc/head.php'; ?>
                     <div class="col-md-9">
                         <div class="box">
                             <h4 class="fadein">CRYBO Concepts</h4>
-                            <h1 class="fadein">Develop and Inovate for new generation.</h1>
-                            <p class="fadein">CRYBO is a project founded by Hikaru Kuribayashi (myself) in 2022.
+                            <h1 class="fadein">Develop and Inovate new generation.</h1>
+                            <p class="fadein">CRYBO is a project founded by Hikaru Kuribayashi in 2022.
                                 Producing NFT,
                                 programming and
                                 snowboarding based on the fusion of snowboarding and art.
-                                <br>The pronunciation is "K RI BO", not "K RAI BO".
-                                <br>Why CRYBO? It is a combination of the "kuri" of "kuribayashi" and the "cry" of
+                                <br>& The pronunciation is not "KU RAI BO", but "K RI BO".
+                                <br>It is a combination of the "kuri" of "kuribayashi" and the "cry" of
                                 "crypto".
                             </p>
                         </div>
